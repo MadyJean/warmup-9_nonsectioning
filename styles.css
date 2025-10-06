@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+}
+.site-header{
+    background-color: rgb(213, 227, 231);
+    padding: 20px;
+}
+.main-content{
+    padding: 20px;
+    font-family: "Bitcount Prop Single Ink", system-ui;
+    color: rgb(50, 109, 109);
+}
+.site-footer{
+    padding: 20px;
+    background-color: rgb(58, 110, 110);
+    color: rgb(255, 218, 162);
+}
+.footer-link{
+    color: antiquewhite;
+}
+
